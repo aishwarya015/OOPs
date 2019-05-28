@@ -18,6 +18,17 @@ def purchase_Shoe(price,material):
 purchase_Mobile(20000,"Apple")
 purchase_Shoe(200,"leather")
 
+exer-3
+class Employee:
+    def __init__(self):
+        self.name = name
+        self.age = age
+        self.salary=sal
+        
+
+Jack=Employee("Jack",24,30000)
+Jill=Employee("Jill",27,40000)
+
 #OOPR-Exer-4
 class Athlete:
     def __init__(self,name,gender):
